@@ -1,4 +1,4 @@
-# **Carousel-Stack**
+# **Easy-Carousel-Stack**
 
 ### This is very easy way usable light weight carousel!
 
@@ -13,8 +13,7 @@
 
 #### <b>Note:</b> Must be support your element or component className attribute / props
 
- ``` 
-    
+ ``` javascript    
     import CarouselWrapper from './lib/Carousel/CarouselWrapper';
 
     const App = () => {

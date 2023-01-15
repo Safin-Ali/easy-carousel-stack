@@ -1,11 +1,9 @@
 {
-  "name": "carousel-stack",
+  "name": "easy-carousel-stack",
   "version": "1.0.0",
-  "description": "simple light weight and easy way usable carousel",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "description": "simple light weight and easy way usable carousel slider",
+  "private": false,
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,7 +13,7 @@
   },
   "keywords": [
     "react-carousel",
-    "carousel-stack",
+    "easy-carousel-stack",
     "easy-carousel-slider",
     "slider"
   ],
